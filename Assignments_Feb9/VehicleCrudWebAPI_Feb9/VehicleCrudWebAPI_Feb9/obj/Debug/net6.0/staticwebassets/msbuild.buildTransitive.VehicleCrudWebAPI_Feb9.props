@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VehicleCrudWebAPI_Feb9.props" />
+</Project>

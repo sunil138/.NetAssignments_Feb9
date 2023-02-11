@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmpCrud_MVC_Feb9.props" />
+</Project>
